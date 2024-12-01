@@ -32,7 +32,7 @@ We take the security of your information seriously. Although we use commercially
 Safe Roads does not retain any personal data aside from login credentials used during active sessions. Data related to user authentication is only maintained for active user sessions and is discarded once a session ends.
 # Changes to This Privacy Policy
 
-This Privacy Policy is effective as of October 28, 2024, and may be updated periodically. Any changes will be in effect immediately upon posting. We recommend checking this policy occasionally for updates. Significant changes will be communicated via email or through a notice on the app.
+This Privacy Policy is effective as of Dec 1, 2024, and may be updated periodically. Any changes will be in effect immediately upon posting. We recommend checking this policy occasionally for updates. Significant changes will be communicated via email or through a notice on the app.
 #Contact Information
 
 For any questions or concerns about this Privacy Policy, please contact us at khalidalzahrani2022@gmail.com.
